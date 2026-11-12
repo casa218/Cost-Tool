@@ -1,0 +1,6 @@
+node_modules
+.next
+data/*.tmp
+.playwright-mcp
+tsconfig.tsbuildinfo
+AGENTS.md
